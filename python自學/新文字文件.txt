@@ -1,0 +1,6 @@
+https://ithelp.ithome.com.tw/articles/10202335
+pip install python venv
+https://blog.longwin.com.tw/2016/08/python-virtualenv-venv-build-2016/
+https://docs.python.org/zh-tw/3/tutorial/venv.html
+https://medium.com/python4u/python-virtualenv%E8%99%9B%E6%93%AC%E7%92%B0%E5%A2%83%E5%AE%89%E8%A3%9D-9d6be2d45db9
+https://blog.csdn.net/qingche456/article/details/54602909

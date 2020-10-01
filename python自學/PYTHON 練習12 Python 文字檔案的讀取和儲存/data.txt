@@ -1,0 +1,3 @@
+hello file
+second line
+測試中文
